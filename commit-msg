@@ -2,6 +2,7 @@
 #Commit message validation.
 #Author: Vamsi Krishna Lella
 
+
 import sys, re, subprocess
 
 MESSAGE_REGEX = '\w*-[\d]*'
